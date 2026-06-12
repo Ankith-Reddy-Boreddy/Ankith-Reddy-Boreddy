@@ -1,29 +1,29 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d0a,100:9FEF00&height=200&section=header&text=Boreddy%20Ankith%20Reddy&fontSize=42&fontColor=9FEF00&fontAlignY=35&desc=Offensive%20Security%20Practitioner%20%7C%20Red%20Team%20Learner&descAlignY=55&descSize=16&descColor=a0a0a0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a0000,100:8B0000&height=200&section=header&text=Boreddy%20Ankith%20Reddy&fontSize=42&fontColor=CC0000&fontAlignY=35&desc=Offensive%20Security%20Practitioner%20%7C%20Red%20Team%20Learner&descAlignY=55&descSize=16&descColor=999999)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=9FEF00&center=true&vCenter=true&multiline=false&width=600&lines=Offensive+Security+Practitioner;Junior+Pentester;Web+Application+Pentester;Security+Researcher;Bug+Bounty+Enthusiast;Red+Team+Learner;CTF+Player;Cybersecurity+Mentor;CPTS+Candidate)](https://git.io/typing-svg)
-
-<br/>
-
-![B.Tech Cyber Security](https://img.shields.io/badge/B.Tech-Cyber%20Security-9FEF00?style=for-the-badge&logo=graduation-cap&logoColor=0d1117&labelColor=0d1117)
-![CGPA](https://img.shields.io/badge/CGPA-8.19%2F10-9FEF00?style=for-the-badge&logo=academia&logoColor=0d1117&labelColor=0d1117)
-![Class of 2027](https://img.shields.io/badge/Class%20of-2027-9FEF00?style=for-the-badge&logo=calendar&logoColor=0d1117&labelColor=0d1117)
-
-![Location](https://img.shields.io/badge/📍-Hyderabad%2C%20India-9FEF00?style=flat-square&labelColor=0d1117&color=161b22)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=CC0000&center=true&vCenter=true&multiline=false&width=600&lines=Offensive+Security+Practitioner;Junior+Pentester;Web+Application+Pentester;Security+Researcher;Bug+Bounty+Enthusiast;Red+Team+Learner;CTF+Player;Cybersecurity+Mentor;CPTS+Candidate)](https://git.io/typing-svg)
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-9FEF00?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://boreddy-ankith-reddy.vercel.app/)
+![B.Tech Cyber Security](https://img.shields.io/badge/B.Tech-Cyber%20Security-8B0000?style=for-the-badge&logo=graduation-cap&logoColor=ffffff&labelColor=0a0a0a)
+![CGPA](https://img.shields.io/badge/CGPA-8.19%2F10-8B0000?style=for-the-badge&logo=academia&logoColor=ffffff&labelColor=0a0a0a)
+![Class of 2027](https://img.shields.io/badge/Class%20of-2027-8B0000?style=for-the-badge&logo=calendar&logoColor=ffffff&labelColor=0a0a0a)
+
+![Location](https://img.shields.io/badge/📍-Hyderabad%2C%20India-8B0000?style=flat-square&labelColor=0a0a0a&color=161b22)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://boreddy-ankith-reddy.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Boreddy-Ankith-Reddy)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boreddyankithreddy@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=9FEF00)](https://github.com/BoreddyAnkithReddy)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/BoreddyAnkithReddy)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=BoreddyAnkithReddy&style=for-the-badge&color=9FEF00&labelColor=0d1117&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/BoreddyAnkithReddy?style=for-the-badge&color=9FEF00&labelColor=0d1117&logo=github&label=FOLLOWERS)
-![GitHub User's stars](https://img.shields.io/github/stars/BoreddyAnkithReddy?style=for-the-badge&color=9FEF00&labelColor=0d1117&logo=github&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=BoreddyAnkithReddy&style=for-the-badge&color=8B0000&labelColor=0a0a0a&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/BoreddyAnkithReddy?style=for-the-badge&color=8B0000&labelColor=0a0a0a&logo=github&label=FOLLOWERS)
+![GitHub User's stars](https://img.shields.io/github/stars/BoreddyAnkithReddy?style=for-the-badge&color=8B0000&labelColor=0a0a0a&logo=github&label=STARS)
 
 </div>
 
@@ -66,22 +66,22 @@
 [![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)](https://www.wireshark.org/)
 [![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)](https://nmap.org/)
 [![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)](https://www.metasploit.com/)
-[![Hydra](https://img.shields.io/badge/Hydra-9FEF00?style=for-the-badge&logo=gnubash&logoColor=0d1117)](https://github.com/vanhauser-thc/thc-hydra)
+[![Hydra](https://img.shields.io/badge/Hydra-8B0000?style=for-the-badge&logo=gnubash&logoColor=ffffff)](https://github.com/vanhauser-thc/thc-hydra)
 [![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-FF0000?style=for-the-badge&logo=gnuprivacyguard&logoColor=white)](https://www.openwall.com/john/)
 
 ### 💻 Languages
 
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=9FEF00)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0d1117)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://www.ruby-lang.org/)
-[![Assembly](https://img.shields.io/badge/Assembly-Learning-9FEF00?style=for-the-badge&logo=assemblyscript&logoColor=0d1117)](https://en.wikipedia.org/wiki/Assembly_language)
+[![Assembly](https://img.shields.io/badge/Assembly-Learning-8B0000?style=for-the-badge&logo=assemblyscript&logoColor=ffffff)](https://en.wikipedia.org/wiki/Assembly_language)
 
 ### 🏴 Platforms
 
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0d1117)](https://profile.hackthebox.com/profile/019dbb1f-d4ed-7123-a5e9-418a5839a70b)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-8B0000?style=for-the-badge&logo=hackthebox&logoColor=ffffff)](https://profile.hackthebox.com/profile/019dbb1f-d4ed-7123-a5e9-418a5839a70b)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/AnkithReddy.Boreddy)
 [![VulnHub](https://img.shields.io/badge/VulnHub-EF2D5E?style=for-the-badge&logo=databricks&logoColor=white)](https://www.vulnhub.com/)
 [![Bugcrowd](https://img.shields.io/badge/Bugcrowd-F26822?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://bugcrowd.com/)
@@ -91,12 +91,12 @@
 ### 🖥️ Operating Systems
 
 [![Kali Linux](https://img.shields.io/badge/Kali%20Linux%20%28Primary%20OS%29-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
-[![NetHunter Pro](https://img.shields.io/badge/NetHunter%20Pro-9FEF00?style=for-the-badge&logo=kalilinux&logoColor=0d1117)](https://www.kali.org/kali-linux-nethunter/)
+[![NetHunter Pro](https://img.shields.io/badge/NetHunter%20Pro-8B0000?style=for-the-badge&logo=kalilinux&logoColor=ffffff)](https://www.kali.org/kali-linux-nethunter/)
 [![GrapheneOS](https://img.shields.io/badge/GrapheneOS-0D4C92?style=for-the-badge&logo=android&logoColor=white)](https://grapheneos.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)](https://archlinux.org/)
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![Parrot OS](https://img.shields.io/badge/Parrot%20OS-15E0ED?style=for-the-badge&logo=linux&logoColor=0d1117)](https://www.parrotsec.org/)
+[![Parrot OS](https://img.shields.io/badge/Parrot%20OS-15E0ED?style=for-the-badge&logo=linux&logoColor=ffffff)](https://www.parrotsec.org/)
 
 </div>
 
@@ -243,7 +243,7 @@ Hands-on offensive security practitioner with continuous self-directed research 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![HackRF](https://img.shields.io/badge/HackRF-9FEF00?style=flat-square&logo=gnuradio&logoColor=0d1117)
+![HackRF](https://img.shields.io/badge/HackRF-8B0000?style=flat-square&logo=gnuradio&logoColor=ffffff)
 
 ---
 
@@ -259,7 +259,7 @@ Consistent CTF practitioner with hands-on experience across multiple challenge c
 - Progressive skill development across red-team methodologies
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
-![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=0d1117)
+![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-8B0000?style=flat-square&logo=hackthebox&logoColor=ffffff)
 ![VulnHub](https://img.shields.io/badge/VulnHub-EF2D5E?style=flat-square&logo=databricks&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -271,9 +271,9 @@ Consistent CTF practitioner with hands-on experience across multiple challenge c
 ### 🎓 CMR College of Engineering and Technology
 **B.Tech – Computer Science and Engineering** &nbsp;|&nbsp; Specialization: Cyber Security
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-9FEF00?style=flat-square&labelColor=0d1117)
-![Graduation](https://img.shields.io/badge/Expected%20Graduation-June%202027-9FEF00?style=flat-square&labelColor=0d1117)
-![CGPA](https://img.shields.io/badge/CGPA-8.19%2F10-9FEF00?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-In%20Progress-8B0000?style=flat-square&labelColor=0a0a0a)
+![Graduation](https://img.shields.io/badge/Expected%20Graduation-June%202027-8B0000?style=flat-square&labelColor=0a0a0a)
+![CGPA](https://img.shields.io/badge/CGPA-8.19%2F10-8B0000?style=flat-square&labelColor=0a0a0a)
 
 > Hyderabad, India
 
@@ -306,7 +306,7 @@ Consistent CTF practitioner with hands-on experience across multiple challenge c
 
 **Hackersdaddy**
 
-[![JWPT](https://img.shields.io/badge/Junior%20Web%20Penetration%20Tester-JWPT-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0d1117)](https://verify.hackersdaddy.com/cert/jwpt.51749e16d7544221b60260f4326eb482.boreddy-ankith-reddy-52b9)
+[![JWPT](https://img.shields.io/badge/Junior%20Web%20Penetration%20Tester-JWPT-8B0000?style=for-the-badge&logo=hackthebox&logoColor=ffffff)](https://verify.hackersdaddy.com/cert/jwpt.51749e16d7544221b60260f4326eb482.boreddy-ankith-reddy-52b9)
 
 `Issued: May 2026` &nbsp;|&nbsp; `Expires: Jun 2029` &nbsp;|&nbsp; `Credential ID: VULN-20206-00008`
 
@@ -338,8 +338,8 @@ Consistent CTF practitioner with hands-on experience across multiple challenge c
 
 **TryHackMe**
 
-[![Pre Security](https://img.shields.io/badge/Pre%20Security-212C42?style=for-the-badge&logo=tryhackme&logoColor=9FEF00)](https://tryhackme.com/p/AnkithReddy.Boreddy)
-[![Cyber Security 101](https://img.shields.io/badge/Cyber%20Security%20101-212C42?style=for-the-badge&logo=tryhackme&logoColor=9FEF00)](https://tryhackme.com/p/AnkithReddy.Boreddy)
+[![Pre Security](https://img.shields.io/badge/Pre%20Security-212C42?style=for-the-badge&logo=tryhackme&logoColor=ffffff)](https://tryhackme.com/p/AnkithReddy.Boreddy)
+[![Cyber Security 101](https://img.shields.io/badge/Cyber%20Security%20101-212C42?style=for-the-badge&logo=tryhackme&logoColor=ffffff)](https://tryhackme.com/p/AnkithReddy.Boreddy)
 
 `Pre Security` — `THM-JE3PN8QQKA` &nbsp;|&nbsp; `Cyber Security 101` — `THM-I7HLRHKIKC`
 
@@ -357,7 +357,7 @@ Consistent CTF practitioner with hands-on experience across multiple challenge c
 
 **Hack The Box** 🎯
 
-![CPTS](https://img.shields.io/badge/Certified%20Penetration%20Testing%20Specialist-CPTS%20In%20Progress-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0d1117&labelColor=0a1628)
+![CPTS](https://img.shields.io/badge/Certified%20Penetration%20Testing%20Specialist-CPTS%20In%20Progress-8B0000?style=for-the-badge&logo=hackthebox&logoColor=ffffff&labelColor=0a0000)
 
 > 🔄 **Actively pursuing CPTS** — Primary certification objective for 2025–2026
 
@@ -369,7 +369,7 @@ Consistent CTF practitioner with hands-on experience across multiple challenge c
 
 <div align="center">
 
-[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0d1117)](https://profile.hackthebox.com/profile/019dbb1f-d4ed-7123-a5e9-418a5839a70b)
+[![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-8B0000?style=for-the-badge&logo=hackthebox&logoColor=ffffff)](https://profile.hackthebox.com/profile/019dbb1f-d4ed-7123-a5e9-418a5839a70b)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/AnkithReddy.Boreddy)
 [![PortSwigger](https://img.shields.io/badge/PortSwigger%20Academy-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/web-security)
 
@@ -417,8 +417,8 @@ Open_To:
 
 [![Gmail](https://img.shields.io/badge/boreddyankithreddy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boreddyankithreddy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Boreddy%20Ankith%20Reddy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Boreddy-Ankith-Reddy)
-[![GitHub](https://img.shields.io/badge/BoreddyAnkithReddy-181717?style=for-the-badge&logo=github&logoColor=9FEF00)](https://github.com/BoreddyAnkithReddy)
-[![Portfolio](https://img.shields.io/badge/Portfolio-9FEF00?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://boreddy-ankith-reddy.vercel.app/)
+[![GitHub](https://img.shields.io/badge/BoreddyAnkithReddy-181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/BoreddyAnkithReddy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8B0000?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://boreddy-ankith-reddy.vercel.app/)
 
 </div>
 
@@ -430,4 +430,4 @@ Open_To:
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:9FEF00,50:0a3d0a,100:0d1117&height=120&section=footer&reversal=false)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,50:1a0000,100:0d0d0d&height=120&section=footer&reversal=false)
