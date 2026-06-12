@@ -372,30 +372,9 @@ Consistent CTF practitioner with hands-on experience across multiple challenge c
 [![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=0d1117)](https://profile.hackthebox.com/profile/019dbb1f-d4ed-7123-a5e9-418a5839a70b)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/AnkithReddy.Boreddy)
 [![PortSwigger](https://img.shields.io/badge/PortSwigger%20Academy-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)](https://portswigger.net/web-security)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/)
-[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
 
 </div>
 
----
-
-## `./analytics --github`
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BoreddyAnkithReddy&show_icons=true&theme=github_dark&hide_border=true&title_color=9FEF00&icon_color=9FEF00&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BoreddyAnkithReddy&layout=compact&theme=github_dark&hide_border=true&title_color=9FEF00&text_color=c9d1d9&bg_color=0d1117&langs_count=8" />
-
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=BoreddyAnkithReddy&theme=github-dark-blue&hide_border=true&stroke=9FEF00&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00&background=0d1117&dates=c9d1d9&currStreakNum=9FEF00&sideLabels=9FEF00" />
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=BoreddyAnkithReddy&bg_color=0d1117&color=9FEF00&line=9FEF00&point=9FEF00&area=true&area_color=9FEF00&hide_border=true&custom_title=Contribution%20Graph" />
-
-</div>
-
----
 
 ## `cat current_focus.yaml`
 
