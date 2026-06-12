@@ -324,7 +324,7 @@ Consistent CTF practitioner with hands-on experience across multiple challenge c
 
 [![APIsec](https://img.shields.io/badge/APIsec%20Certified%20Practitioner-ACP-0052CC?style=for-the-badge&logo=swagger&logoColor=white)](https://www.credly.com/badges/d2182821-abee-4e8d-8665-aa24bf9c6ae7/public_url)
 
-`Issued: April 2026` &nbsp;|&nbsp; [Verify on Credly](https://www.credly.com/badges/d2182821-abee-4e8d-8665-aa24bf9c6ae7/public_url)
+`Issued: April 2026` &nbsp;|&nbsp; `Credential ID: d2182821-abee-4e8d-8665-aa24bf9c6ae7`
 
 ---
 
