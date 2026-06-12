@@ -426,7 +426,7 @@ Open_To:
 
 <div align="center">
 
-"Trust is the first vulnerability"
+" Trust is the first vulnerability "
 
 </div>
 
