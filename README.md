@@ -90,7 +90,7 @@
 
 ### 🖥️ Operating Systems
 
-[![Kali Linux](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
+[![Kali Linux(Primary OS)](https://img.shields.io/badge/Kali%20Linux-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)](https://www.kali.org/)
 [![NetHunter Pro](https://img.shields.io/badge/NetHunter%20Pro-9FEF00?style=for-the-badge&logo=kalilinux&logoColor=0d1117)](https://www.kali.org/kali-linux-nethunter/)
 [![GrapheneOS](https://img.shields.io/badge/GrapheneOS-0D4C92?style=for-the-badge&logo=android&logoColor=white)](https://grapheneos.org/)
 [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)
