@@ -426,7 +426,7 @@ Open_To:
 
 <div align="center">
 
-Trust is the first vulnerability | Control is just an illusion waiting to be exploited
+"Trust is the first vulnerability"
 
 </div>
 
