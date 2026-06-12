@@ -417,7 +417,7 @@ Open_To:
 
 [![Gmail](https://img.shields.io/badge/boreddyankithreddy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boreddyankithreddy@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Boreddy%20Ankith%20Reddy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Boreddy-Ankith-Reddy)
-[![GitHub](https://img.shields.io/badge/BoreddyAnkithReddy-181717?style=for-the-badge&logo=github&logoColor=9FEF00)](https://github.com/BoreddyAnkithReddy)
+[![GitHub](https://img.shields.io/badge/BoreddyAnkithReddy-181717?style=for-the-badge&logo=github&logoColor=9FEF00)](https://github.com/Boreddy-Ankith-Reddy)
 [![Portfolio](https://img.shields.io/badge/Portfolio-9FEF00?style=for-the-badge&logo=vercel&logoColor=0d1117)](https://boreddy-ankith-reddy.vercel.app/)
 
 </div>
